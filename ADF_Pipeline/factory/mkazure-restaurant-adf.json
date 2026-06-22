@@ -1,0 +1,15 @@
+{
+	"name": "mkazure-restaurant-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "98bbd074-00cb-4cdb-a956-db054779332c",
+		"tenantId": "1abf90e7-7835-4ecd-aab5-ee0bebf88061"
+	}
+}
